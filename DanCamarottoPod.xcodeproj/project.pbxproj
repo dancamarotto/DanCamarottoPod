@@ -48,11 +48,19 @@
 		C40B02842077B657006114A1 /* DanCamarottoPod */ = {
 			isa = PBXGroup;
 			children = (
+				C40B02AD2077C707006114A1 /* Source */,
 				C40B02852077B657006114A1 /* DanCamarottoPod.h */,
 				C40B02862077B657006114A1 /* Info.plist */,
-				C40B028D2077B7CC006114A1 /* BooleanInverter.swift */,
 			);
 			path = DanCamarottoPod;
+			sourceTree = "<group>";
+		};
+		C40B02AD2077C707006114A1 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				C40B028D2077B7CC006114A1 /* BooleanInverter.swift */,
+			);
+			path = Source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
