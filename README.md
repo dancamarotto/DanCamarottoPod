@@ -1,2 +1,2 @@
 # DanCamarottoPod
-Learning how to create cocoapods
+Learning how to create a pod.
